@@ -1,0 +1,67 @@
+Signature Not Verified
+TAX INVOICE Digitally Signed by
+NITIN SHYAM KHANDELWAL
+Date:Mon Jun 07 17:37:49 IST 2021
+
+PAN: AAACC6814B
+BILLING ADDRESS
+A KIRAN RAJ #
+15-21-150/3/7 BALAJI NAGAR,#,,KUKATPALLY,NEAR SAI BABA
+TEMPLE,#, HYDERABAD,TELANGANA - 500072
+EMAIL : kiranrajkittu@gmail.com
+CONTACT NO : 9666976143
+CONTACT PERSON :
+GSTIN/UIN :
+GSTIN:36AAACC6814B1Z5
+INSTALLATION ADDRESS
+A KIRAN RAJ #
+15-21-150/3/7 BALAJI NAGAR,,,KUKATPALLY,NEAR SAI BABA
+TEMPLE,#, HYDERABAD,TELANGANA - 500072
+CONTACT NO : 9666976143
+CONTACT PERSON :
+GSTIN/UIN :
+CIN No: L64204MH1959PLC011421
+INVOICE DETAILS
+ACCOUNT NO. : 1106318320
+DEVICE : ZTEGCBDDDD27
+INVOICE NO. : I0136P2206117247
+INVOICE DATE : 06-Jun-2021
+TECHNOLOGY : GPON
+
+CHARGE DETAILS
+Package HSN/SAC Transaction Date Period Charges Discount Net Charges
+GPON FIBER HD5 HYD 50Mbps 998422 06-Jun-2021 07-JUN-2021 - 06-SEP-2021 1,199.00 0.00 1,199.00
+QtrlyU-SUBSCRIPTION
+PREPAID QUARTERLY AMC PRODUCT FOR 998716 06-Jun-2021 07-JUN-2021 - 06-SEP-2021 40.00 0.00 40.00
+DCM
+Total Charges 1,239.00
+CGST (9%) 111.51
+SGST (9%) 111.51
+Current Total 1,462.02
+Current Total (Round off) 1,462.00
+Current Total (in words) Rupees One Thousand Four Hundred Sixty Two and Zero Paise Only
+Payment Modes - Pay online using debit/credit card/UPI, Netbanking on www.hathway.com, Mobile APP Invoice Ref No:
+All cheque payments to be made in favor of  "HATHWAY CABLE AND DATACOM LIMITED"
+This invoice is issued without any prejudice to our rights to claim previous outstanding if any -
+Nature of Services – Internet Telecom Services (automated should be based HSN)
+Tax on Reverse Charge – Not Applicable
+Subject to MUMBAI jurisdiction
+For any Billing, Renewals or Technical queries Call on  040-66989898  or
+mail on  hydhelpdesk@hathway.net
+For any Technical assistance mail on  hydhelpdesk@hathway.net Authorised Signatory
+Late Fee Charges : Please make payment by due date to avoid charging of late fees
+Outstanding (<Rs.2000 : Rs 50+GST) (between 2000-5000 : Rs 100+GST) (>Rs 5000 : Rs 200+GST)
+
+REMITTANCE SLIP                               (To be filled by Customer)
+ACCOUNT NO. MODE OF PAYMENT DATE NAME OF BANK INSTRUMENT NUMBER AMOUNT (RS.)
+(CASH/CHEQUE/DD/ONLINE)
+1106318320
+
+Official Use Only Signature & Stamp
+Date Received Hathway Cable And Datacom Limited
+
+HATHWAY CABLE AND DATACOM LIMITED
+Registration Office : 4th Floor, Rahejas, Corner Of VP Road, Main Avenue, Santacruz West, Mumbai 400 054
+Billing Address : 3rd Floor, 303/304, Mahaveer Chambers, Liberty X Road, Himayat Nagar, Hyderabad, Telangana 500029
+
+1 of 1
