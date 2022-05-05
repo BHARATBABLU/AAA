@@ -1,22 +1,17 @@
 {
-  "name": "Practical Tasks",
-  "description": "Tasks For Interview",
+  "name": "BlankProcess",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "Microsoft.Activities.Extensions": "[2.0.6.9]",
-    "UiPath.DocumentUnderstanding.ML.Activities": "[1.13.2-preview]",
     "UiPath.Excel.Activities": "[2.12.3]",
-    "UiPath.IntelligentOCR.Activities": "[6.0.1-preview]",
     "UiPath.Mail.Activities": "[1.15.1]",
-    "UiPath.OmniPage.Activities": "[1.9.0-preview]",
-    "UiPath.PDF.Activities": "[3.6.0]",
     "UiPath.System.Activities": "[22.4.1]",
     "UiPath.UIAutomation.Activities": "[22.4.4]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "22.4.0.0",
+  "studioVersion": "22.4.1.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
@@ -51,7 +46,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "b8d38191-2b24-4c50-90c0-ae3ebbbb28d8",
+      "uniqueId": "5e9b5125-a9b1-4912-82f4-be878d71c9aa",
       "input": [],
       "output": []
     }
