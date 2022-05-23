@@ -44,14 +44,7 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "99840d26-4dfc-413b-81e5-292c39bc229d",
-        "testCaseType": "TestCase",
-        "fileName": "ACME.xaml"
-      }
-    ],
+    "fileInfoCollection": [],
     "modernBehavior": false
   },
   "expressionLanguage": "VisualBasic",
